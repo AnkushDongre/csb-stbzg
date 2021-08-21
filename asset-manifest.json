@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-stbzg/static/css/main.39cc8f96.chunk.css",
+    "main.js": "https://.github.io/csb-stbzg/static/js/main.bec36bc5.chunk.js",
+    "main.js.map": "https://.github.io/csb-stbzg/static/js/main.bec36bc5.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-stbzg/static/js/runtime-main.4a967efe.js",
+    "runtime-main.js.map": "https://.github.io/csb-stbzg/static/js/runtime-main.4a967efe.js.map",
+    "static/css/2.a7397990.chunk.css": "https://.github.io/csb-stbzg/static/css/2.a7397990.chunk.css",
+    "static/js/2.f02e918b.chunk.js": "https://.github.io/csb-stbzg/static/js/2.f02e918b.chunk.js",
+    "static/js/2.f02e918b.chunk.js.map": "https://.github.io/csb-stbzg/static/js/2.f02e918b.chunk.js.map",
+    "index.html": "https://.github.io/csb-stbzg/index.html",
+    "static/css/2.a7397990.chunk.css.map": "https://.github.io/csb-stbzg/static/css/2.a7397990.chunk.css.map",
+    "static/css/main.39cc8f96.chunk.css.map": "https://.github.io/csb-stbzg/static/css/main.39cc8f96.chunk.css.map",
+    "static/js/2.f02e918b.chunk.js.LICENSE.txt": "https://.github.io/csb-stbzg/static/js/2.f02e918b.chunk.js.LICENSE.txt",
+    "static/media/Psychiatry-Med.1fb51c60.jpg": "https://.github.io/csb-stbzg/static/media/Psychiatry-Med.1fb51c60.jpg",
+    "static/media/alone-girl.057adcd7.jpg": "https://.github.io/csb-stbzg/static/media/alone-girl.057adcd7.jpg",
+    "static/media/emoje-girl.afa4dbbf.jpg": "https://.github.io/csb-stbzg/static/media/emoje-girl.afa4dbbf.jpg",
+    "static/media/smile.2a65279a.jpg": "https://.github.io/csb-stbzg/static/media/smile.2a65279a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a967efe.js",
+    "static/css/2.a7397990.chunk.css",
+    "static/js/2.f02e918b.chunk.js",
+    "static/css/main.39cc8f96.chunk.css",
+    "static/js/main.bec36bc5.chunk.js"
+  ]
+}
